@@ -1,5 +1,6 @@
 # Multiway clustering via tensor block models
 Author: Miaoyan Wang, Yuchen Zeng.
+
 Acknowledgments: We would also like to thank Chen Zhang for help with the software and data analysis. 
 
 ### Introduction
